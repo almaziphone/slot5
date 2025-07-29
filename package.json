@@ -1,0 +1,24 @@
+{
+  "name": "slot5",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.4.0",
+    "grammy": "^1.19.2"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0",
+    "typescript": "^5.4.0",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vue-tsc": "^2.0.0"
+  }
+}
